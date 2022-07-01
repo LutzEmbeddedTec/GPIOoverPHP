@@ -2,7 +2,7 @@
  <body>
   <head>
    <title>
-     run
+     Lutz GPIO over PHP example
    </title>
   </head>
 
