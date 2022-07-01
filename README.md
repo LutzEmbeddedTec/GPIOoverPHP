@@ -15,6 +15,13 @@ sudo apt install php libapache2-mod-php -y
 
 ## Presetting Raspberry 
 
+
+
+git clone https://github.com/LutzEmbeddedTec/GPIOoverPHP.git
+
+sudo cp index.php /var/www/html/
+sudo rm /var/www/html/index.html
+
 Add webser to GPIO permission group
 
 ```
