@@ -8,7 +8,7 @@
 
    <form method="post">
 
-    <input type="submit" value="GO" name="GO">
+    <input type="submit" value="LED" name="LED" style="height:50px; width:100px">
    </form>
  </body>
 </html>
