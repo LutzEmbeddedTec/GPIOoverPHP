@@ -14,7 +14,7 @@
 </html>
 
 <?php
-        if(isset($_POST['GO']))
+        if(isset($_POST['LED']))
         {
                 shell_exec('python /home/Lutz/toggle.py');
         }
