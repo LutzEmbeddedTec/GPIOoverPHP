@@ -1,4 +1,7 @@
 # GPIOoverPHP
+
+[![youtube video with explaination](https://img.youtube.com/vi/hJk_EfXBtUg/0.jpg)](https://www.youtube.com/watch?v=hJk_EfXBtUg)
+
 How to control GPIO´s over PHP on a Raspberry
 
 ## install Webserver on Respberry PI
